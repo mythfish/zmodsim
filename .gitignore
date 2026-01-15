@@ -1,0 +1,7 @@
+dist
+zig-out
+config2.json
+config3.json
+config4.json
+config5.json
+.zig-cache
